@@ -21,7 +21,7 @@ Launch the utility: <br/><br>
 <img src="https://i.imgur.com/uEZGYaF.png" height="80%" width="80%" alt="PowerShell Steps"/>
 <br />
 <br />
-Next, change directory. The PowerShell window may open with you in the USER folder by default. <br>You’ll need to change cirectory (cd) to the file location you want the folders to go:<br/><br>
+Next, change directory. The PowerShell window may open with you in the USER folder by default. <br>You’ll need to change directory (cd) to the file location you want the folders to go:<br/><br>
 <img src="https://i.imgur.com/kUxCUXi.png" height="80%" width="80%" alt="PowerShell Steps"/>
 <br />
 <br />
